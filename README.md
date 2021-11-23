@@ -29,5 +29,6 @@ code files are uploaded into repository
 
 Results
 ---
-Refer the below link to view the reports in the pdf formart
+Refer the below link to view the reports in the pdf format
+
 https://drive.google.com/drive/folders/1gDFRDppr8TZw3nzGYSINiH26iWrKN_yQ

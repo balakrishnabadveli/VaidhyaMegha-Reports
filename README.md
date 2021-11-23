@@ -22,9 +22,12 @@ Softwares used:
 1) Postgresql Database: 
   Version:14.0
   --> Used for loading the dataset, performed some analysis to preprocess the data
-2) Python (Jupyter Notebook)
+2) Python (Jupyter Notebook):
   Version:3.10.0
-  --> User to generate the graphs by using the libraries like numpy, matplotlib, pandas, seaborn 
+  --> Used to generate the graphs by using the libraries like numpy, matplotlib, pandas, seaborn 
+3) DBeaver (Optional):
+  Version:21.2.4
+  --> Used to manage or view the dataset
 
 Execution code:
 ---

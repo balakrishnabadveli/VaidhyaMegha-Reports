@@ -24,8 +24,8 @@ Execution code:
 ---
 code files are uploaded into repository
 
-Postgresql commands file : PSQL Commands.sql
-Python code: ictrp18112021.ipynb
+1) Postgresql commands file : PSQL Commands.sql
+2) Python code: ictrp18112021.ipynb
 
 Results
 ---

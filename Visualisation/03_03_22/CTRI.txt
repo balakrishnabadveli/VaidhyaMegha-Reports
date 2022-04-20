@@ -1,0 +1,106 @@
+https://www.who.int/clinical-trials-registry-platform/CTRI/2012/11/003129
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+https://vaidhyamegha.com/open_kg/ct
+https://www.who.int/clinical-trials-registry-platform/CTRI/2012/11/003129
+http://www.w3.org/2000/01/rdf-schema#label
+CTRI/2012/11/003129
+https://www.who.int/clinical-trials-registry-platform/CTRI/2012/11/003129
+Pubmed_Article
+https://pubmed.ncbi.nlm.nih.gov/31809224
+
+
+NTR1043	https://trialregister.nl/trial/1014
+NTR5284	https://trialregister.nl/trial/5145
+NTR4708	https://trialregister.nl/trial/4353
+NTR3548	https://trialregister.nl/trial/3405
+NTR6230	https://trialregister.nl/trial/6083
+NTR40	https://trialregister.nl/trial/19
+NTR6669	https://trialregister.nl/trial/6482
+NTR5736	https://trialregister.nl/trial/5629
+NTR2833	https://trialregister.nl/trial/2304
+NTR1743	https://trialregister.nl/trial/1645
+
+
+CTRI/2020/11/029264	http://www.ctri.nic.in/Clinicaltrials/pmaindet2.php?trialid=47176
+CTRI/2020/11/029266	http://www.ctri.nic.in/Clinicaltrials/pmaindet2.php?trialid=49576
+CTRI/2020/08/027285	http://www.ctri.nic.in/Clinicaltrials/pmaindet2.php?trialid=45050
+CTRI/2020/07/026700	http://www.ctri.nic.in/Clinicaltrials/pmaindet2.php?trialid=45207
+CTRI/2020/10/028194	http://www.ctri.nic.in/Clinicaltrials/pmaindet2.php?trialid=47624
+CTRI/2021/05/033696	http://www.ctri.nic.in/Clinicaltrials/pmaindet2.php?trialid=56026
+CTRI/2020/04/024659	http://www.ctri.nic.in/Clinicaltrials/pmaindet2.php?trialid=42967
+CTRI/2022/01/039145	http://www.ctri.nic.in/Clinicaltrials/pmaindet2.php?trialid=63140
+CTRI/2022/02/040032	http://www.ctri.nic.in/Clinicaltrials/pmaindet2.php?trialid=65427
+CTRI/2020/12/030143	http://www.ctri.nic.in/Clinicaltrials/pmaindet2.php?trialid=50886
+
+ChiCTR2100047371	http://www.chictr.org.cn/showproj.aspx?proj=65757
+ChiCTR2100047420	http://www.chictr.org.cn/showproj.aspx?proj=128176
+ChiCTR2100047396	http://www.chictr.org.cn/showproj.aspx?proj=128360
+ChiCTR2100047381	http://www.chictr.org.cn/showproj.aspx?proj=49359
+ChiCTR2100047377	http://www.chictr.org.cn/showproj.aspx?proj=62723
+ChiCTR2000039948	http://www.chictr.org.cn/showproj.aspx?proj=63943
+ChiCTR2100047355	http://www.chictr.org.cn/showproj.aspx?proj=123811
+ChiCTR2100047351	http://www.chictr.org.cn/showproj.aspx?proj=124591
+ChiCTR2100047338	http://www.chictr.org.cn/showproj.aspx?proj=127705
+ChiCTR2100047323	http://www.chictr.org.cn/showproj.aspx?proj=127488
+
+DRKS00004057	http://www.drks.de/DRKS00004057
+DRKS00003889	http://www.drks.de/DRKS00003889
+DRKS00009447	http://www.drks.de/DRKS00009447
+DRKS00014753	http://www.drks.de/DRKS00014753
+DRKS00011628	http://www.drks.de/DRKS00011628
+DRKS00007825	http://www.drks.de/DRKS00007825
+DRKS00024047	http://www.drks.de/DRKS00024047
+DRKS00004517	http://www.drks.de/DRKS00004517
+DRKS00004151	http://www.drks.de/DRKS00004151
+DRKS00023617	http://www.drks.de/DRKS00023617
+
+http://www.drks.de/DRKS00005617
+
+EUCTR2009-018077-31-PL	https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2009-018077-31
+EUCTR2008-002260-33-IT	https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2008-002260-33
+EUCTR2021-002148-56-ES	https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2021-002148-56
+EUCTR2013-005212-98-DE	https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2013-005212-98
+EUCTR2020-000077-25-CZ	https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2020-000077-25
+EUCTR2017-003040-20-DK	https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-003040-20
+EUCTR2019-002575-34-AT	https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2019-002575-34
+EUCTR2017-003838-88-DK	https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-003838-88
+EUCTR2019-001755-39-PT	https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2019-001755-39
+EUCTR2017-002429-39-FI	https://www.clinicaltrialsregister.eu/ctr-search/search?query=eudract_number:2017-002429-39
+
+
+JPRN-jRCTs072210110	https://jrct.niph.go.jp/latest-detail/jRCTs072210110
+JPRN-jRCT1070210108	https://jrct.niph.go.jp/latest-detail/jRCT1070210108
+JPRN-jRCT2021210041	https://jrct.niph.go.jp/latest-detail/jRCT2021210041
+JPRN-jRCT1020210063	https://jrct.niph.go.jp/latest-detail/jRCT1020210063
+JPRN-jRCT2041210006	https://jrct.niph.go.jp/latest-detail/jRCT2041210006
+JPRN-jRCT2051210150	https://jrct.niph.go.jp/latest-detail/jRCT2051210150
+JPRN-JapicCTI-163220	https://www.clinicaltrials.jp/user/showCteDetailE.jsp?japicId=JapicCTI-163220
+JPRN-jRCT2071200098	https://jrct.niph.go.jp/latest-detail/jRCT2071200098
+JPRN-jRCT2041210125	https://jrct.niph.go.jp/latest-detail/jRCT2041210125
+JPRN-jRCTs031200079	https://jrct.niph.go.jp/latest-detail/jRCTs031200079
+
+
+RPCEC00000188	https://rpcec.sld.cu/en/trials/RPCEC00000188-En
+RPCEC00000182	https://rpcec.sld.cu/en/trials/RPCEC00000182-En
+RPCEC00000276	https://rpcec.sld.cu/en/trials/RPCEC00000276-En
+RPCEC00000229	https://rpcec.sld.cu/en/trials/RPCEC00000229-En
+RPCEC00000308	https://rpcec.sld.cu/en/trials/RPCEC00000308-En
+RPCEC00000106	https://rpcec.sld.cu/en/trials/RPCEC00000106-En
+RPCEC00000167	https://rpcec.sld.cu/en/trials/RPCEC00000167-En
+RPCEC00000127	https://rpcec.sld.cu/en/trials/RPCEC00000127-En
+RPCEC00000353	https://rpcec.sld.cu/en/trials/RPCEC00000353-En
+RPCEC00000042	https://rpcec.sld.cu/en/trials/RPCEC00000042-En
+
+
+IRCT201202088961N1	http://en.irct.ir/trial/9417
+IRCT201212163217N6	http://en.irct.ir/trial/3276
+IRCT201012195421N1	http://en.irct.ir/trial/5821
+IRCT201112148410N1	http://en.irct.ir/trial/8880
+IRCT20210128050165N1	http://en.irct.ir/trial/56065
+IRCT20190706044111N8	http://en.irct.ir/trial/41939
+IRCT138709011465N1	http://en.irct.ir/trial/741
+IRCT138706091106N2	http://en.irct.ir/trial/130
+IRCT20090822002365N19	http://en.irct.ir/trial/29694
+IRCT201406022892N3	http://en.irct.ir/trial/2779
+
+

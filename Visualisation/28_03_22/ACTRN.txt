@@ -1,0 +1,10 @@
+https://www.who.int/clinical-trials-registry-platform/ACTRN12619000044123
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+https://vaidhyamegha.com/open_kg/ct
+https://www.who.int/clinical-trials-registry-platform/ACTRN12619000044123
+http://www.w3.org/2000/01/rdf-schema#label
+ACTRN12619000044123
+https://www.who.int/clinical-trials-registry-platform/ACTRN12619000044123
+Pubmed_Article
+https://pubmed.ncbi.nlm.nih.gov/33807296
+

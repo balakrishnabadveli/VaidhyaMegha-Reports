@@ -1,0 +1,143 @@
+16:00:53.053 [main] DEBUG org.apache.jena.util.FileManager - Add location: LocatorFile
+16:00:53.056 [main] DEBUG org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
+16:00:53.060 [main] DEBUG org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
+16:00:53.060 [main] DEBUG org.apache.jena.util.FileManager - Add location: LocatorFile
+16:00:53.061 [main] DEBUG org.apache.jena.util.FileManager - Add location: LocatorURL
+16:00:53.062 [main] DEBUG org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
+16:00:53.069 [main] DEBUG org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;etc/location-mapping.rdf;etc/location-mapping.ttl
+[-m, cli, -q, src/main/sparql/EU_Query.rq]
+CLI
+16:00:53.764 [main] DEBUG org.apache.jena.riot.system.stream.StreamManager - Not mapped: data/open_knowledge_graph_on_clinical_trials/vaidhyamegha_open_kg_clinical_trials.nt
+16:00:53.768 [main] DEBUG org.apache.jena.riot.system.stream.StreamManager - Found: data/open_knowledge_graph_on_clinical_trials/vaidhyamegha_open_kg_clinical_trials.nt (LocatorFile)
+16:01:53.255 [main] DEBUG org.apache.jena.shared.LockMRSW - Lock : main
+16:01:53.350 [main] DEBUG org.apache.jena.shared.LockMRSW - Lock : main
+Results: 
+-------- 
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+https://vaidhyamegha.com/open_kg/ct
+http://www.w3.org/2000/01/rdf-schema#label
+EUCTR2016-001399-31-GB
+
+
+
+16:04:06.408 [main] DEBUG org.apache.jena.util.FileManager - Add location: LocatorFile
+16:04:06.415 [main] DEBUG org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
+16:04:06.420 [main] DEBUG org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
+16:04:06.421 [main] DEBUG org.apache.jena.util.FileManager - Add location: LocatorFile
+16:04:06.437 [main] DEBUG org.apache.jena.util.FileManager - Add location: LocatorURL
+16:04:06.437 [main] DEBUG org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
+16:04:06.448 [main] DEBUG org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;etc/location-mapping.rdf;etc/location-mapping.ttl
+[-m, cli, -q, src/main/sparql/ChiCTR_Query.rq]
+CLI
+16:04:08.498 [main] DEBUG org.apache.jena.riot.system.stream.StreamManager - Not mapped: data/open_knowledge_graph_on_clinical_trials/vaidhyamegha_open_kg_clinical_trials.nt
+16:04:08.534 [main] DEBUG org.apache.jena.riot.system.stream.StreamManager - Found: data/open_knowledge_graph_on_clinical_trials/vaidhyamegha_open_kg_clinical_trials.nt (LocatorFile)
+16:05:14.412 [main] DEBUG org.apache.jena.shared.LockMRSW - Lock : main
+16:05:14.828 [main] DEBUG org.apache.jena.shared.LockMRSW - Lock : main
+Results: 
+-------- 
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+https://vaidhyamegha.com/open_kg/ct
+http://www.w3.org/2000/01/rdf-schema#label
+ChiCTR2000035161
+
+
+16:07:37.193 [main] DEBUG org.apache.jena.util.FileManager - Add location: LocatorFile
+16:07:37.197 [main] DEBUG org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
+16:07:37.223 [main] DEBUG org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
+16:07:37.224 [main] DEBUG org.apache.jena.util.FileManager - Add location: LocatorFile
+16:07:37.231 [main] DEBUG org.apache.jena.util.FileManager - Add location: LocatorURL
+16:07:37.232 [main] DEBUG org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
+16:07:37.239 [main] DEBUG org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;etc/location-mapping.rdf;etc/location-mapping.ttl
+[-m, cli, -q, src/main/sparql/CTRI_Query.rq]
+CLI
+16:07:39.694 [main] DEBUG org.apache.jena.riot.system.stream.StreamManager - Not mapped: data/open_knowledge_graph_on_clinical_trials/vaidhyamegha_open_kg_clinical_trials.nt
+16:07:39.747 [main] DEBUG org.apache.jena.riot.system.stream.StreamManager - Found: data/open_knowledge_graph_on_clinical_trials/vaidhyamegha_open_kg_clinical_trials.nt (LocatorFile)
+16:08:39.765 [main] DEBUG org.apache.jena.shared.LockMRSW - Lock : main
+16:08:39.829 [main] DEBUG org.apache.jena.shared.LockMRSW - Lock : main
+Results: 
+-------- 
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+https://vaidhyamegha.com/open_kg/ct
+http://www.w3.org/2000/01/rdf-schema#label
+CTRI/2022/02/040372
+
+
+
+16:10:07.816 [main] DEBUG org.apache.jena.util.FileManager - Add location: LocatorFile
+16:10:07.820 [main] DEBUG org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
+16:10:07.843 [main] DEBUG org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
+16:10:07.844 [main] DEBUG org.apache.jena.util.FileManager - Add location: LocatorFile
+16:10:07.845 [main] DEBUG org.apache.jena.util.FileManager - Add location: LocatorURL
+16:10:07.845 [main] DEBUG org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
+16:10:07.853 [main] DEBUG org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;etc/location-mapping.rdf;etc/location-mapping.ttl
+[-m, cli, -q, src/main/sparql/NCT_Query.rq]
+CLI
+16:10:09.944 [main] DEBUG org.apache.jena.riot.system.stream.StreamManager - Not mapped: data/open_knowledge_graph_on_clinical_trials/vaidhyamegha_open_kg_clinical_trials.nt
+16:10:09.991 [main] DEBUG org.apache.jena.riot.system.stream.StreamManager - Found: data/open_knowledge_graph_on_clinical_trials/vaidhyamegha_open_kg_clinical_trials.nt (LocatorFile)
+16:11:01.831 [main] DEBUG org.apache.jena.shared.LockMRSW - Lock : main
+16:11:01.843 [main] DEBUG org.apache.jena.shared.LockMRSW - Lock : main
+Results: 
+-------- 
+Condition
+http://id.nlm.nih.gov/mesh/2022/T023062
+Pubmed_Article
+https://pubmed.ncbi.nlm.nih.gov/34619108
+Intervention
+http://id.nlm.nih.gov/mesh/2022/T020999
+Intervention
+http://id.nlm.nih.gov/mesh/2022/T691727
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+https://vaidhyamegha.com/open_kg/ct
+Pubmed_Article
+https://pubmed.ncbi.nlm.nih.gov/32559465
+Pubmed_Article
+https://pubmed.ncbi.nlm.nih.gov/33338413
+Pubmed_Article
+https://pubmed.ncbi.nlm.nih.gov/32970396
+Condition
+http://id.nlm.nih.gov/mesh/2022/T051037
+Pubmed_Article
+https://pubmed.ncbi.nlm.nih.gov/33186054
+Pubmed_Article
+https://pubmed.ncbi.nlm.nih.gov/31939531
+Pubmed_Article
+https://pubmed.ncbi.nlm.nih.gov/32778748
+Intervention
+http://id.nlm.nih.gov/mesh/2022/T538909
+Intervention
+http://id.nlm.nih.gov/mesh/2022/T000937586
+Pubmed_Article
+https://pubmed.ncbi.nlm.nih.gov/34619106
+Condition
+http://id.nlm.nih.gov/mesh/2022/T042627
+http://www.w3.org/2000/01/rdf-schema#label
+NCT03036150
+Condition
+http://id.nlm.nih.gov/mesh/2022/T023049
+Pubmed_Article
+https://pubmed.ncbi.nlm.nih.gov/32862232
+Pubmed_Article
+https://pubmed.ncbi.nlm.nih.gov/34183431
+Pubmed_Article
+https://pubmed.ncbi.nlm.nih.gov/34446370
+
+
+16:18:35.937 [main] DEBUG org.apache.jena.util.FileManager - Add location: LocatorFile
+16:18:35.940 [main] DEBUG org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
+16:18:35.944 [main] DEBUG org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
+16:18:35.944 [main] DEBUG org.apache.jena.util.FileManager - Add location: LocatorFile
+16:18:35.945 [main] DEBUG org.apache.jena.util.FileManager - Add location: LocatorURL
+16:18:35.945 [main] DEBUG org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
+16:18:35.952 [main] DEBUG org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;etc/location-mapping.rdf;etc/location-mapping.ttl
+[-m, cli, -q, src/main/sparql/DRKS_Query.rq]
+CLI
+16:18:36.610 [main] DEBUG org.apache.jena.riot.system.stream.StreamManager - Not mapped: data/open_knowledge_graph_on_clinical_trials/vaidhyamegha_open_kg_clinical_trials.nt
+16:18:36.614 [main] DEBUG org.apache.jena.riot.system.stream.StreamManager - Found: data/open_knowledge_graph_on_clinical_trials/vaidhyamegha_open_kg_clinical_trials.nt (LocatorFile)
+16:19:37.933 [main] DEBUG org.apache.jena.shared.LockMRSW - Lock : main
+16:19:37.968 [main] DEBUG org.apache.jena.shared.LockMRSW - Lock : main
+Results: 
+-------- 
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+https://vaidhyamegha.com/open_kg/ct
+http://www.w3.org/2000/01/rdf-schema#label
+EUCTR2016-001399-31-GB

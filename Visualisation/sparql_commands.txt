@@ -1,0 +1,14 @@
+SELECT  ?s ?o ?p
+WHERE {
+     ?s ?o ?p
+     filter( regex(str(?s), "NCT00012558" )  )
+
+}
+
+
+java -jar -Xms4096M -Xmx8144M target/vaidhyamegha-knowledge-graphs-v0.9-jar-with-dependencies.jar -m cli -q src/main/sparql/NCT_Query.rq
+
+
+ulimit -c unlimited
+
+export export LIBGL_ALWAYS_SOFTWARE=1

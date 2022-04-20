@@ -1,0 +1,13 @@
+https://www.who.int/clinical-trials-registry-platform/ISRCTN34806867
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+https://vaidhyamegha.com/open_kg/ct
+https://www.who.int/clinical-trials-registry-platform/ISRCTN34806867
+http://www.w3.org/2000/01/rdf-schema#label
+ISRCTN34806867
+https://www.who.int/clinical-trials-registry-platform/ISRCTN34806867
+Pubmed_Article
+https://pubmed.ncbi.nlm.nih.gov/28385912
+https://www.who.int/clinical-trials-registry-platform/ISRCTN34806867
+Pubmed_Article
+https://pubmed.ncbi.nlm.nih.gov/26100026
+
